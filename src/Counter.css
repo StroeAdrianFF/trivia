@@ -1,0 +1,16 @@
+.mainCounter{
+    width: 7%;
+    height: 10vh;
+    background-color: lightblue;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    -webkit-box-shadow: -12px 13px 28px 9px rgba(0,0,0,0.4);
+    -moz-box-shadow: -12px 13px 28px 9px rgba(0,0,0,0.4);
+    box-shadow: -12px 13px 28px 9px rgba(0,0,0,0.4);
+    margin-top: -25vh;
+}
+
+.score{
+    font-size: 230%;
+}
