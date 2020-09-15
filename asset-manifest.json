@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/trivia/static/css/main.80c02c39.chunk.css",
-    "main.js": "/trivia/static/js/main.7cc24872.chunk.js",
-    "main.js.map": "/trivia/static/js/main.7cc24872.chunk.js.map",
+    "main.css": "/trivia/static/css/main.1ab4b157.chunk.css",
+    "main.js": "/trivia/static/js/main.00a3da0b.chunk.js",
+    "main.js.map": "/trivia/static/js/main.00a3da0b.chunk.js.map",
     "runtime-main.js": "/trivia/static/js/runtime-main.82c86a55.js",
     "runtime-main.js.map": "/trivia/static/js/runtime-main.82c86a55.js.map",
     "static/js/2.00301f0e.chunk.js": "/trivia/static/js/2.00301f0e.chunk.js",
     "static/js/2.00301f0e.chunk.js.map": "/trivia/static/js/2.00301f0e.chunk.js.map",
     "index.html": "/trivia/index.html",
-    "precache-manifest.ebb907449b17ebb6ccb84871d73adfe3.js": "/trivia/precache-manifest.ebb907449b17ebb6ccb84871d73adfe3.js",
+    "precache-manifest.1ca6d320970c51472828a9bdce0878ea.js": "/trivia/precache-manifest.1ca6d320970c51472828a9bdce0878ea.js",
     "service-worker.js": "/trivia/service-worker.js",
-    "static/css/main.80c02c39.chunk.css.map": "/trivia/static/css/main.80c02c39.chunk.css.map",
+    "static/css/main.1ab4b157.chunk.css.map": "/trivia/static/css/main.1ab4b157.chunk.css.map",
     "static/js/2.00301f0e.chunk.js.LICENSE.txt": "/trivia/static/js/2.00301f0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82c86a55.js",
     "static/js/2.00301f0e.chunk.js",
-    "static/css/main.80c02c39.chunk.css",
-    "static/js/main.7cc24872.chunk.js"
+    "static/css/main.1ab4b157.chunk.css",
+    "static/js/main.00a3da0b.chunk.js"
   ]
 }
