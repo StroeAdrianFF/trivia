@@ -1,10 +1,6 @@
 .mainCard{
     height: 137vh;
     width: 100%;
-    background-image: url('https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 0 2vh;
     margin-top: -37vh;
     padding-top: 30vh;
     position: relative;

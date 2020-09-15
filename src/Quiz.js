@@ -67,7 +67,7 @@ function Quiz(props) {
     return (
         <div className="mainCard">
             <div className="card">
-                Category -> {category}{correctAns}<br /><br />
+                Category -> {category}<br /><br />
                 Question -> {question} <br /><br />
                 <ul className="answers">
                     <li>I. {options[0]}</li>
